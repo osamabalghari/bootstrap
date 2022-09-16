@@ -1,0 +1,12 @@
+.container{
+  transform: translateX(30%);
+  width: 80%; 
+}
+
+.img{
+height: 10vh;
+}
+.main a{
+text-decoration: none;
+width: 25%;
+}
